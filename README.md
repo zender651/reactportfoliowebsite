@@ -1,6 +1,3 @@
-# reactportfoliowebsite
-<img src="icon.png" align="right" />
-
 # React Portfolio Website 
 > HTML/CSS, ReactJS, BootStrap
 
